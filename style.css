@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    padding: 0px;
+}
+
+.w-100 {
+    height: 400px;
+}
+
+.container {
+    margin-top: 30px;
+}
+
+.product {
+    margin-top: 30px;
+}
+
+.row {
+    margin-top: 30px;
+}
+
+.card-img-top {
+    height: 200px;
+}
+
+.para-detail {
+    overflow: scroll;
+    height: 200px;
+}
+
+.move_right {
+    float: right;
+}
+
